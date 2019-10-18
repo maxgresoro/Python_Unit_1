@@ -1,9 +1,11 @@
+#  Max Gresoro - IT075 Sierra College
+#  Assingment to create a picture in Turtle Graphics
+
 import turtle
 
 myturtle = turtle.Turtle()
 
 myturtle.speed(0)
-#myturtle.bgcolor("lightgrey")
 
 myturtle.pencolor("black")
 myturtle.penup()
